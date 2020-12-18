@@ -400,6 +400,10 @@ textarea {
   font: 300 16px/22px "Lato", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
+.comments {
+  resize: none;
+}
+
 .register-group label{
   color: #648880;
   cursor: pointer;
